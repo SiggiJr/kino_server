@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "type": "loge",
+    "reserved": false,
+    "price": 11
+  },
+  {
+    "id": 2,
+    "type": "loge",
+    "reserved": false,
+    "price": 11
+  },
+  {
+    "id": 3,
+    "type": "loge",
+    "reserved": false,
+    "price": 11
+  },
+  {
+    "id": 4,
+    "type": "loge",
+    "reserved": false,
+    "price": 11
+  },
+  {
+    "id": 5,
+    "type": "loge",
+    "reserved": false,
+    "price": 11
+  },
+  {
+    "id": 6,
+    "type": "loge",
+    "reserved": false,
+    "price": 11
+  },
+  {
+    "id": 7,
+    "type": "loge",
+    "reserved": false,
+    "price": 11
+  },
+  {
+    "id": 8,
+    "type": "loge",
+    "reserved": false,
+    "price": 11
+  },
+  {
+    "id": 9,
+    "type": "loge",
+    "reserved": false,
+    "price": 11
+  },
+  {
+    "id": 10,
+    "type": "loge",
+    "reserved": false,
+    "price": 11
+  },
+  {
+    "id": 11,
+    "type": "loge",
+    "reserved": false,
+    "price": 11
+  },
+  {
+    "id": 12,
+    "type": "loge",
+    "reserved": false,
+    "price": 11
+  },
+  {
+    "id": 13,
+    "type": "parkett",
+    "reserved": false,
+    "price": 8
+  },
+  {
+    "id": 14,
+    "type": "parkett",
+    "reserved": false,
+    "price": 8
+  },
+  {
+    "id": 15,
+    "type": "parkett",
+    "reserved": false,
+    "price": 8
+  },
+  {
+    "id": 16,
+    "type": "parkett",
+    "reserved": false,
+    "price": 8
+  },
+  {
+    "id": 17,
+    "type": "parkett",
+    "reserved": false,
+    "price": 8
+  },
+  {
+    "id": 18,
+    "type": "parkett",
+    "reserved": false,
+    "price": 8
+  },
+  {
+    "id": 19,
+    "type": "parkett",
+    "reserved": false,
+    "price": 8
+  },
+  {
+    "id": 20,
+    "type": "parkett",
+    "reserved": false,
+    "price": 8
+  },
+  {
+    "id": 21,
+    "type": "parkett",
+    "reserved": false,
+    "price": 8
+  },
+  {
+    "id": 22,
+    "type": "parkett",
+    "reserved": false,
+    "price": 8
+  },
+  {
+    "id": 23,
+    "type": "parkett",
+    "reserved": false,
+    "price": 8
+  },
+  {
+    "id": 24,
+    "type": "parkett",
+    "reserved": false,
+    "price": 8
+  }
+]
