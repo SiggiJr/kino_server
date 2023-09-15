@@ -4,13 +4,13 @@ import nodemailer from "nodemailer";
 import "dotenv/config";
 import { readFile, writeFile } from "node:fs/promises";
 
-const PORT = 6969;
+const PORT = process.env.PORT;
 
 const app = express();
 
 const transport = nodemailer.createTransport({
   host: process.env.HOST,
-  port: process.env.PORT,
+  port: 2525,
   auth: {
     user: process.env.BENUTZER,
     pass: process.env.PASSWORD,
