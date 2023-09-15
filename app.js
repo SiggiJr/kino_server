@@ -25,7 +25,7 @@ const loadSeats = async () => {
     const data = await readFile("./utils/data.json", { encoding: "utf-8" });
     return JSON.parse(data);
   } catch (error) {
-    return ["test"];
+    return [];
   }
 };
 
